@@ -1,0 +1,2 @@
+# Tesseract.WpfAppDemo
+Tesseract.WpfAppDemo
