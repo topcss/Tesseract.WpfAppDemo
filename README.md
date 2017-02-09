@@ -13,6 +13,8 @@ Tesseract.WpfAppDemo
 - 通过多线程分离UI和耗时的操作。
 - 采用Tesseract接口实现OCR文字识别。
 
+## 下载可执行版本
+[百度云下载 OcrApp](https://pan.baidu.com/s/1jI3DS5S)
 
 ## 截图
 ![1](screenshot/1.gif)
